@@ -1,0 +1,22 @@
+{
+  "name": "moduletest",
+  "version": "1.0.0",
+  "description": "Test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thirdcreed/moduletest.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "ccreed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thirdcreed/moduletest/issues"
+  },
+  "homepage": "https://github.com/thirdcreed/moduletest"
+}
